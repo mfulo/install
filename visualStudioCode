@@ -1,5 +1,8 @@
-Note: Visual studio code na blue idadownload sa Windows 11 with 64-bit 
+Install Visual studio code (the blue one) on Windows 11 with 64-bit OS
 
-1. Go to Visual Studio site (https://code.visualstudio.com/)
-                       
-2. 
+- Go to Visual Studio site (https://code.visualstudio.com/)                  
+- Click "Download for Windows"
+- Double click the downloaded exe file
+- Accept agreement >> "Next"
+- In "Select Additional Tasks", tick all the boxes >> "Next"
+- "Install"
