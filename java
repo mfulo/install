@@ -20,4 +20,5 @@ Download java
 
 Check if you now have java
 - Repeat the process with cmd
+- Check it with VS code too
  
