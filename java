@@ -1,4 +1,4 @@
-Setup Java in Visual Studio Code, assuming we have a Visual Studio Code already. 
+Setup Java in Visual Studio Code, assuming we have a Visual Studio Code already. If you don't have it yet, follow the instructions here to install: 
 
 Check if you have java
 - Check first if you have java installed in your computer
